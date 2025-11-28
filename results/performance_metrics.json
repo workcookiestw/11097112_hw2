@@ -1,0 +1,18 @@
+{
+    "classification": {
+        "traditional": {
+            "accuracy": 0.6,
+            "time": 0.0011846250000004943
+        },
+        "modern": {
+            "accuracy": 0.8,
+            "time": 5.127048582999999
+        }
+    },
+    "similarity_accuracy": {
+        "tfidf": 0.85,
+        "word2vec": 0.92,
+        "gpt": 0.99
+    },
+    "note": "若 MOCK_MODE=True，部分數據為模擬值"
+}

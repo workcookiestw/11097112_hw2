@@ -1,0 +1,11 @@
+﻿Method,Text,True,Pred,Correct
+Rule-Based,這部電影太好看了，劇本一流！,正面,中性,False
+Rule-Based,服務態度很差，以後不會再來。,負面,負面,True
+Rule-Based,根據財報顯示，本季營收成長。,中性,中性,True
+Rule-Based,手機剛買來就壞了，非常生氣。,負面,負面,True
+Rule-Based,老師教得很仔細，獲益良多。,正面,中性,False
+GPT-4o,這部電影太好看了，劇本一流！,正面,正面,True
+GPT-4o,服務態度很差，以後不會再來。,負面,負面,True
+GPT-4o,根據財報顯示，本季營收成長。,中性,正面,False
+GPT-4o,手機剛買來就壞了，非常生氣。,負面,負面,True
+GPT-4o,老師教得很仔細，獲益良多。,正面,正面,True

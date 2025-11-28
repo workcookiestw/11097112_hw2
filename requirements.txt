@@ -1,0 +1,10 @@
+openai>=1.0.0
+pandas
+scikit-learn
+jieba
+gensim
+numpy
+tabulate
+openpyxl
+matplotlib
+seaborn
